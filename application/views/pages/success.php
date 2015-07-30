@@ -1,0 +1,1 @@
+<p>See All student lists <a href="<?php echo site_url('students') ?>">here</a></p>
